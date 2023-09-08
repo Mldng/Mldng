@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-🇻🇳 Hailing from Vietnam with deep ties to Japan 🇯🇵, where I've called home for nearly 14 years. My journey began in 2009 when I embarked on a life-changing chapter at Ritsumeikan Asia Pacific University in Oita, Kyushu Island. The enchantment of Oita compelled me to stay after graduation. During this decade, I had the honor of serving as a Sales Manager and leading the marketing team at Wancher Inc. We focused on managing e-commerce stores, specializing in Japanese writing instruments.
+🇻🇳 Hailing from Vietnam with deep ties to Japan 🇯🇵, where I've called home for nearly 14 years. My journey in Japan began in 2009 when I enrolled at Ritsumeikan Asia Pacific University in Oita, Kyushu island. The allure of Oita was so strong that I decided to stay after graduation. During my time there, I had the privilege of working at Wancher Inc., where I served as a sales manager and led the marketing team, focusing on managing e-commerce online stores selling Japanese writing instruments.
 
 🏙️ A new adventure beckoned, leading me to Tokyo, where I transitioned into an accountant role at Bollore Logistics, a renowned French logistics company. Here, I managed accounts receivable and accounts payable, gaining invaluable experience.
 
