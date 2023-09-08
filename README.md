@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hello, I'm Melody 🌸
+
+🇻🇳 Hailing from Vietnam with deep ties to Japan 🇯🇵, where I've called home for nearly 14 years. My journey began in 2009 when I embarked on a life-changing chapter at Ritsumeikan Asia Pacific University in Oita, Kyushu Island. The enchantment of Oita compelled me to stay after graduation. During this decade, I had the honor of serving as a Sales Manager and leading the marketing team at Wancher Inc. We focused on managing e-commerce stores, specializing in Japanese writing instruments.
+
+🏙️ A new adventure beckoned, leading me to Tokyo, where I transitioned into an accountant role at Bollore Logistics, a renowned French logistics company. Here, I managed accounts receivable and accounts payable, gaining invaluable experience.
+
+👩‍👧‍👦 My journey took an exciting twist when I welcomed my second child, leading me to discover the captivating world of data science during childcare leave. This discovery led to my transformative nine-week data science bootcamp at Le Wagon, where I gained incredible knowledge and skills.
+
+🚀 The apex of this journey was our final project, Siesta Sentry: a Drowsiness Detector, which I developed with my talented teammates. It revealed the limitless possibilities of data. Now, I'm poised to continue this remarkable voyage, exploring the boundless potential of data to reshape our world. Let's connect and explore together! 📊🌐
