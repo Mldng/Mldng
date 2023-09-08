@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello, I'm Melody 🌸
 
 <!--
 **Mldng/Mldng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hello, I'm Melody 🌸
+
 
 🇻🇳 Hailing from Vietnam with deep ties to Japan 🇯🇵, where I've called home for nearly 14 years. My journey began in 2009 when I embarked on a life-changing chapter at Ritsumeikan Asia Pacific University in Oita, Kyushu Island. The enchantment of Oita compelled me to stay after graduation. During this decade, I had the honor of serving as a Sales Manager and leading the marketing team at Wancher Inc. We focused on managing e-commerce stores, specializing in Japanese writing instruments.
 
