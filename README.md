@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 🏙️ A new adventure beckoned, leading me to Tokyo, where I transitioned into an accountant role at Bollore Logistics, a renowned French logistics company. Here, I managed accounts receivable and accounts payable, gaining invaluable experience.
 
-👩‍👧‍👦 My journey took an exciting twist when I welcomed my second child, leading me to discover the captivating world of data science during childcare leave. This discovery led to my transformative nine-week data science bootcamp at Le Wagon, where I gained incredible knowledge and skills.
+👩‍👧‍👦 My journey took an exciting turn when I welcomed my second child, and during my childcare leave, I stumbled upon the captivating world of data science. This led me to embark on a transformative nine-week data science bootcamp at Le Wagon, where I acquired invaluable knowledge and skills.
 
-🚀 The apex of this journey was our final project, Siesta Sentry: a Drowsiness Detector, which I developed with my talented teammates. It revealed the limitless possibilities of data. Now, I'm poised to continue this remarkable voyage, exploring the boundless potential of data to reshape our world. Let's connect and explore together! 📊🌐
+🚀 The highlight of this journey was our final project, Siesta Sentry: a Drowsiness Detector, which I developed with my talented teammates. It revealed the limitless possibilities of data. Now, I'm poised to continue this remarkable voyage, exploring the boundless potential of data to reshape our world. Let's connect and explore together! 📊🌐
