@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Melody 🌸
+### 👋 Hello, I'm Melody ✨
 
 <!--
 **Mldng/Mldng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 🚀 The highlight of this journey was our final project, Siesta Sentry: a Drowsiness Detector, which I developed with my talented teammates. It revealed the limitless possibilities of data. Now, I'm poised to continue this remarkable voyage, exploring the boundless potential of data to reshape our world. Let's connect and explore together! 📊🌐
 -->
-- 🏙️ Originally from Hanoi, Vietnam, living in Japan since 2009.
-- 🌟 6 years of experience in Sales & Marketing, 4 years as an Accountant.
-- 🎓 Turning point: Joined a Data Science & AI bootcamp at Le Wagon.
-- 🚀 Currently working as a Data Engineer, passionate about exploring data’s potential.
+- 🏡 Originally from Hanoi, Vietnam, living in Japan since 2009.
+- 💼 6 years of experience in Sales & Marketing, 4 years as an Accountant.
+- 🚀 Turning point: Joined a Data Science & AI bootcamp at Le Wagon.
+- 💻 Currently working as a Data Engineer, passionate about exploring data’s potential.
 
 
 ## ⚙️ Data Engineering Toolkit
