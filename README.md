@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🚀 Currently working as a Data Engineer, passionate about exploring data’s potential.
 
 
-## 🛠️ Data Engineering Toolkit
+## ⚙️ Data Engineering Toolkit
 
 | Data Warehouse                                                                 | Workflow Orchestration                                                        | Cloud Services                                                                 | ETL Tools                                                                 |
 |-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 
-## 🧰 Data Sciences Toolkit
+## 🧬 Data Sciences Toolkit
 
 | Data Analysis                                                                 | Data Visualization                                                             | Data Science & AI                                                                    | MLOps                                     |
 |-------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|------------------------------------------|
